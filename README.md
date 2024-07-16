@@ -4,6 +4,6 @@ Este projeto foi criado como parte do desafio do curso de Docker da FullCycle.
 
 ## Dockerhub
 
-Você pode encontrar a imagem Docker deste projeto no Dockerhub:
+Você pode encontrar a imagem Docker deste projeto no Docker hub:
 
 [pierrymedeiros/fullcycle](https://hub.docker.com/repository/docker/pierrymedeiros/fullcycle/general)
